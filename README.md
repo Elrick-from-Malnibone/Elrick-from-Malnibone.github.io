@@ -1,2 +1,2 @@
-# Elrick-from-Malnibone.github.io
+Денис Сюсин
 Первое домашнее задание.
