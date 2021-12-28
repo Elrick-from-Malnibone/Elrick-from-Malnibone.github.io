@@ -31,14 +31,14 @@ nav{
 
 .main{
 	width: 100%;
-	height: calc(100%-60px);
+	height: calc(100% - 60px);
 	background: url(../img/r2.png) 100% 100%/auto 85% no-repeat, url(../img/bg.jpg.) center/cover no-repeat;
 }
 
 .title__conteiner{
 	float: left;
 
-	margin: 432px 0px 0px 404px;
+	margin: 332px 0px 0px 404px;
 	color: #2c384a;
 	text-align: center;
 }
@@ -66,6 +66,79 @@ nav{
 	font-size: 13px;
 	padding: 0px 16px;
 	margin: 58px 14px 0px 14px;
+
+}
+
+.about{
+	width: 100%;
+	height: 100% ;
+	background: url(../img/boy2.jpg) 47% 40%/auto 25% no-repeat
+
+}
+
+
+
+.about_me h2{
+	float: left;
+    margin: 130px 0px 200px 670px;
+    font-size: 20px;
+	font-weight: bold;
+}
+
+.about_me p{
+	float: left;
+	margin: 120px 0px 150px 120px;
+	color: #6d7682;
+	font-size: 15px;
+	text-align: center;
+
+}
+
+.about_me input{
+	float: left;
+	font-size: 15px;
+	color: #6d7682;
+	
+
+	height: 40px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	background: url(../img/icon.jpg) 10% 40%/auto 35% no-repeat;
+	border-radius: 7px;
+	color: #6d7682;  
+	font-size: 15px;
+	padding: 0px 16px;
+    margin: 0px 0px 100px 655px;
+
+}
+
+.what_i_can_do{
+	width: 100%;
+	height: 100% ;
+	background: url(../img/fon.jpg) 100% 100%/100% 100% no-repeat
+
+}
+
+.what h2{
+	float: left;
+    margin: 130px 0px 200px 670px;
+    font-size: 20px;
+	font-weight: bold;
+
+
+}
+
+
+.what li{
+	float: left;
+	line-height: 60px;
+	color: #f48925;
+	font-size: 18px;
+	text-align: center;
+	padding: 347px 32px;
+	margin: 0px 0px 50px 10px;
+
+	
 
 }
 
