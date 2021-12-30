@@ -72,20 +72,20 @@ nav{
 .about{
 	width: 100%;
 	height: 100% ;
-	background: url(../img/boy2.jpg) 47% 20%/auto 25% no-repeat
+	background: url(../img/boy2.jpg) 51% 20%/auto 25% no-repeat;
 
 }
 
 
 
 .about_me h2{
-    margin: 108px 0px 200px 670px;
+    margin: 108px 0px 200px 800px;
     font-size: 20px;
 	font-weight: bold;
 }
 
 .about_me p{
-	margin: 400px 0px 140px 120px;
+	margin: 400px 0px 140px 90px;
 	color: #6d7682;
 	font-size: 15px;
 	text-align: center;
@@ -105,37 +105,57 @@ nav{
 	color: #6d7682;  
 	font-size: 15px;
 	padding: 0px 16px;
-    margin: 0px 0px 100px 655px;
+    margin: 0px 0px 100px 770px;
 
 }
 
 .what_i_can_do{
 	width: 100%;
 	height: 100% ;
-	background: url(../img/fon.jpg) 100% 100%/auto 100% no-repeat
+	background: url(../img/fon.jpg) 100% 100%/auto 100% no-repeat;
 
 }
 
 .what h2{
-    margin: 100px 0px 200px 670px;
+    padding: 105px 0px 100px 780px;
     font-size: 20px;
 	font-weight: bold;
 
 
+
 }
 
 
-.what li{
-	line-height: 60px;
+.what h4{
+	float: left;
 	color: #f48925;
 	font-size: 18px;
-	text-align: center;
-	padding: 347px 32px;
-	margin: 0px 0px 50px 10px;
+	padding-top: 330px;
+	padding-left: 230px;
 
-	
+
+
 
 }
+
+.what p{
+	
+    float: left;
+	padding-top: 360px;
+	margin-left: -170px;
+	text-align: center;
+
+ 
+}
+
+
+
+
+
+
+}
+
+
 
 
 	
