@@ -125,35 +125,22 @@ nav{
 
 }
 
-
-.what h4{
+.f {
 	float: left;
-	color: #f48925;
-	font-size: 18px;
-	padding-top: 330px;
-	padding-left: 230px;
-
-
-
-
+	width: 100px;
+	text-align: center;
 }
 
-.what p{
-	
-    float: left;
-	padding-top: 360px;
-	margin-left: -170px;
-	text-align: center;
+
 
  
-}
 
 
 
 
 
 
-}
+
 
 
 
